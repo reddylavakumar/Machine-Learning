@@ -6,20 +6,20 @@ Dream Housing Finance company deals in all home loans. They have presence across
 
 This is a standard supervised classification task.A classification problem where we have to predict whether a loan would be approved or not. Below is the dataset attributes with description.
 
-Variable                                   Description
-Loan_ID	                        -->        Unique Loan ID
-Gender	                        -->        Male/ Female
-Married                         -->      	 Applicant married(Y/N)
-Dependents	                    -->        Number of dependents
-Education	Applicant Education   -->        (Graduate/ Under Graduate)
-Self_Employed	                  -->        Self employed (Y/N)
-ApplicantIncome                 -->        Applicant income
-CoapplicantIncome	              -->        Coapplicant income
-LoanAmount	                    -->        Loan amount in thousands
-Loan_Amount_Term	              -->        Term of loan in months
-Credit_History	                -->        credit history meets guidelines
-Property_Area	                  -->        Urban/ Semi Urban/ Rural
-Loan_Status                     -->        Loan approved (Y/N)
+Variable and Description are
+Loan_ID	is the Unique Loan ID
+Gender in the sense whether the applicant is Male/ Female
+Married in the sense Applicant is married or not (Y/N)
+Dependents means Number of dependents on the applicant
+Education	in the sense whether the applicant is Graduate or Under Graduate
+Self_Employed	in the sense whether the applicant is Self employed or not (Y/N)
+ApplicantIncome in the sense,it is the income of the Applicant
+CoapplicantIncome in the sense, it is income of the Coapplicant 
+LoanAmount in the sense Loan amount in thousands
+Loan_Amount_Term in the sense Term of loan in months
+Credit_History in the sense credit history meets guidelines
+Property_Area	in the sense whether the property is situtaed in Urban/ Semi Urban/ Rural
+Loan_Status in the sense whether the Loan approved or not (Y/N)
 
 Download link: https://www.kaggle.com/altruistdelhite04/loan-prediction-problem-dataset
 
