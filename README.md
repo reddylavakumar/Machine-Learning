@@ -35,4 +35,3 @@ Property_Area	in the sense whether the property is situtaed in Urban/ Semi Urban
 Loan_Status in the sense whether the Loan approved or not (Y/N)
 
 Download link: https://www.kaggle.com/altruistdelhite04/loan-prediction-problem-dataset
-
